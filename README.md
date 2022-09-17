@@ -1,2 +1,2 @@
 # Coding Challenges
-Coding Challenges from Hackerrank, CodeWars, LeetCode, AlgoExperts, Edabit, etc.
+Solutions to coding challenges from Hackerrank, CodeWars, LeetCode, AlgoExperts, Edabit, etc.
